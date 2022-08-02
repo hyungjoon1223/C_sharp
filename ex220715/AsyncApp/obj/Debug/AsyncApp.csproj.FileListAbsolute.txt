@@ -1,0 +1,8 @@
+C:\Projects\C#\ex220715\AsyncApp\bin\Debug\AsyncApp.exe.config
+C:\Projects\C#\ex220715\AsyncApp\bin\Debug\AsyncApp.exe
+C:\Projects\C#\ex220715\AsyncApp\bin\Debug\AsyncApp.pdb
+C:\Projects\C#\ex220715\AsyncApp\obj\Debug\AsyncApp.csproj.AssemblyReference.cache
+C:\Projects\C#\ex220715\AsyncApp\obj\Debug\AsyncApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\ex220715\AsyncApp\obj\Debug\AsyncApp.csproj.CoreCompileInputs.cache
+C:\Projects\C#\ex220715\AsyncApp\obj\Debug\AsyncApp.exe
+C:\Projects\C#\ex220715\AsyncApp\obj\Debug\AsyncApp.pdb

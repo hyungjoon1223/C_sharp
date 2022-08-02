@@ -1,0 +1,8 @@
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\bin\Debug\20220718_황형준_교수님과제.exe.config
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\bin\Debug\20220718_황형준_교수님과제.exe
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\bin\Debug\20220718_황형준_교수님과제.pdb
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\obj\Debug\20220718_황형준_교수님과제.csproj.AssemblyReference.cache
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\obj\Debug\20220718_황형준_교수님과제.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\obj\Debug\20220718_황형준_교수님과제.csproj.CoreCompileInputs.cache
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\obj\Debug\20220718_황형준_교수님과제.exe
+C:\Projects\C#\20220718_황형준_교수님과제\20220718_황형준_교수님과제\obj\Debug\20220718_황형준_교수님과제.pdb

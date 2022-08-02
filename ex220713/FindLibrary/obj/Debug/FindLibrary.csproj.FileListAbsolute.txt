@@ -1,0 +1,6 @@
+C:\Projects\C#\ex220713\FindLibrary\bin\Debug\FindLibrary.dll
+C:\Projects\C#\ex220713\FindLibrary\bin\Debug\FindLibrary.pdb
+C:\Projects\C#\ex220713\FindLibrary\obj\Debug\FindLibrary.csproj.AssemblyReference.cache
+C:\Projects\C#\ex220713\FindLibrary\obj\Debug\FindLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\C#\ex220713\FindLibrary\obj\Debug\FindLibrary.dll
+C:\Projects\C#\ex220713\FindLibrary\obj\Debug\FindLibrary.pdb

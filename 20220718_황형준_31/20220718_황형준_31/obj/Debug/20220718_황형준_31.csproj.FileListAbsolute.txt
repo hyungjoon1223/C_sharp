@@ -1,0 +1,8 @@
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\bin\Debug\20220718_황형준_31.exe.config
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\bin\Debug\20220718_황형준_31.exe
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\bin\Debug\20220718_황형준_31.pdb
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\obj\Debug\20220718_황형준_31.csproj.AssemblyReference.cache
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\obj\Debug\20220718_황형준_31.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\obj\Debug\20220718_황형준_31.csproj.CoreCompileInputs.cache
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\obj\Debug\20220718_황형준_31.exe
+C:\Projects\C#\20220718_황형준_31\20220718_황형준_31\obj\Debug\20220718_황형준_31.pdb

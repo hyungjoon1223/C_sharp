@@ -1,0 +1,8 @@
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\bin\Debug\220720_황형준_BITMAP.exe.config
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\bin\Debug\220720_황형준_BITMAP.exe
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\bin\Debug\220720_황형준_BITMAP.pdb
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\obj\Debug\220720_황형준_BITMAP.csproj.AssemblyReference.cache
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\obj\Debug\220720_황형준_BITMAP.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\obj\Debug\220720_황형준_BITMAP.csproj.CoreCompileInputs.cache
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\obj\Debug\220720_황형준_BITMAP.exe
+C:\Projects\C#\220720_황형준_BITMAP\220720_황형준_BITMAP\obj\Debug\220720_황형준_BITMAP.pdb

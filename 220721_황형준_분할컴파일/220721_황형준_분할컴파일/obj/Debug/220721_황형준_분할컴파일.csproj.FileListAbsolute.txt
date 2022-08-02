@@ -1,0 +1,8 @@
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\bin\Debug\220721_황형준_분할컴파일.exe.config
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\bin\Debug\220721_황형준_분할컴파일.exe
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\bin\Debug\220721_황형준_분할컴파일.pdb
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\obj\Debug\220721_황형준_분할컴파일.csproj.AssemblyReference.cache
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\obj\Debug\220721_황형준_분할컴파일.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\obj\Debug\220721_황형준_분할컴파일.csproj.CoreCompileInputs.cache
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\obj\Debug\220721_황형준_분할컴파일.exe
+C:\Projects\C#\220721_황형준_분할컴파일\220721_황형준_분할컴파일\obj\Debug\220721_황형준_분할컴파일.pdb

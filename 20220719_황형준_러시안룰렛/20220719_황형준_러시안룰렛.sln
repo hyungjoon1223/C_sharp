@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20220719_황형준_러시안룰렛", "20220719_황형준_러시안룰렛\20220719_황형준_러시안룰렛.vcxproj", "{40613C68-EE8F-49A3-BAF5-5CC617073DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Debug|x64.ActiveCfg = Debug|x64
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Debug|x64.Build.0 = Debug|x64
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Debug|x86.ActiveCfg = Debug|Win32
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Debug|x86.Build.0 = Debug|Win32
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Release|x64.ActiveCfg = Release|x64
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Release|x64.Build.0 = Release|x64
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Release|x86.ActiveCfg = Release|Win32
+		{40613C68-EE8F-49A3-BAF5-5CC617073DD0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA8ACF7-6929-4F66-A016-827249B4FB85}
+	EndGlobalSection
+EndGlobal

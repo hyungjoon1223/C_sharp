@@ -1,0 +1,8 @@
+C:\Projects\C#\ex220719\ex220719\bin\Debug\ex220719.exe.config
+C:\Projects\C#\ex220719\ex220719\bin\Debug\ex220719.exe
+C:\Projects\C#\ex220719\ex220719\bin\Debug\ex220719.pdb
+C:\Projects\C#\ex220719\ex220719\obj\Debug\ex220719.csproj.AssemblyReference.cache
+C:\Projects\C#\ex220719\ex220719\obj\Debug\ex220719.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\ex220719\ex220719\obj\Debug\ex220719.csproj.CoreCompileInputs.cache
+C:\Projects\C#\ex220719\ex220719\obj\Debug\ex220719.exe
+C:\Projects\C#\ex220719\ex220719\obj\Debug\ex220719.pdb

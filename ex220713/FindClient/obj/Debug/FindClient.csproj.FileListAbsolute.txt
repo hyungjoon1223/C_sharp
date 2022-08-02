@@ -1,0 +1,11 @@
+C:\Projects\C#\ex220713\FindClient\obj\Debug\FindClient.csproj.AssemblyReference.cache
+C:\Projects\C#\ex220713\FindClient\obj\Debug\FindClient.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\ex220713\FindClient\obj\Debug\FindClient.csproj.CoreCompileInputs.cache
+C:\Projects\C#\ex220713\FindClient\bin\Debug\FindClient.exe.config
+C:\Projects\C#\ex220713\FindClient\bin\Debug\FindClient.exe
+C:\Projects\C#\ex220713\FindClient\bin\Debug\FindClient.pdb
+C:\Projects\C#\ex220713\FindClient\bin\Debug\FindLibrary.dll
+C:\Projects\C#\ex220713\FindClient\bin\Debug\FindLibrary.pdb
+C:\Projects\C#\ex220713\FindClient\obj\Debug\FindClient.csproj.CopyComplete
+C:\Projects\C#\ex220713\FindClient\obj\Debug\FindClient.exe
+C:\Projects\C#\ex220713\FindClient\obj\Debug\FindClient.pdb
