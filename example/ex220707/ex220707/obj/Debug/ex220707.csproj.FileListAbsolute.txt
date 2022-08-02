@@ -1,0 +1,8 @@
+C:\Projects\C#\example\ex220707\ex220707\bin\Debug\ex220707.exe.config
+C:\Projects\C#\example\ex220707\ex220707\bin\Debug\ex220707.exe
+C:\Projects\C#\example\ex220707\ex220707\bin\Debug\ex220707.pdb
+C:\Projects\C#\example\ex220707\ex220707\obj\Debug\ex220707.csproj.AssemblyReference.cache
+C:\Projects\C#\example\ex220707\ex220707\obj\Debug\ex220707.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\example\ex220707\ex220707\obj\Debug\ex220707.csproj.CoreCompileInputs.cache
+C:\Projects\C#\example\ex220707\ex220707\obj\Debug\ex220707.exe
+C:\Projects\C#\example\ex220707\ex220707\obj\Debug\ex220707.pdb
