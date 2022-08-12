@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향 설계 원칙", "객체지향 설계 원칙\객체지향 설계 원칙.csproj", "{81D70957-B6B8-4A37-9312-CDC00A7DBF48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D70957-B6B8-4A37-9312-CDC00A7DBF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D70957-B6B8-4A37-9312-CDC00A7DBF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D70957-B6B8-4A37-9312-CDC00A7DBF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D70957-B6B8-4A37-9312-CDC00A7DBF48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299F820F-91A2-41C7-9123-C88DA0EDE3B8}
+	EndGlobalSection
+EndGlobal
