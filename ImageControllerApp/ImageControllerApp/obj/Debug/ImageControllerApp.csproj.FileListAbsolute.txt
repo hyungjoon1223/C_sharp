@@ -1,0 +1,8 @@
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\bin\Debug\ImageControllerApp.exe.config
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\bin\Debug\ImageControllerApp.exe
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\bin\Debug\ImageControllerApp.pdb
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\obj\Debug\ImageControllerApp.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\obj\Debug\ImageControllerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\obj\Debug\ImageControllerApp.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\obj\Debug\ImageControllerApp.exe
+C:\Users\ATI-4\Desktop\ImageControllerApp\ImageControllerApp\obj\Debug\ImageControllerApp.pdb
